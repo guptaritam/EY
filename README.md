@@ -1,4 +1,4 @@
-# EY
+# EY Bidding Use Case
 My personal thoughts on the use case:-
 
 This Use Case asssumes running three Quorum nodes for this bidding use case. As per my experience with such projects users bidding for the item would not be using dedicated quorum nodes to initiate bidding transations but rather their keys. 1-1 relationship between Quorum nodes and parties would not be scalable(assuming parties B and C are end bidder and not a mediater oranisation taking bids on end users behalf). 
