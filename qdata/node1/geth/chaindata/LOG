@@ -1,0 +1,36 @@
+=============== Dec 2, 2018 (UTC) ===============
+21:53:09.467993 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:53:09.471802 db@open opening
+21:53:09.472193 version@stat F·[] S·0B[] Sc·[]
+21:53:09.474226 db@janitor F·2 G·0
+21:53:09.474250 db@open done T·2.43564ms
+=============== Dec 2, 2018 (UTC) ===============
+21:58:39.348943 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:58:39.349080 version@stat F·[] S·0B[] Sc·[]
+21:58:39.349089 db@open opening
+21:58:39.349121 journal@recovery F·1
+21:58:39.351500 journal@recovery recovering @1
+21:58:39.353990 memdb@flush created L0@2 N·11 S·745B "H\xaa\x9d..4\xbc\xfc,v5":"\x81\xfd\xea..\xd1>\x16,v2"
+21:58:39.356345 version@stat F·[1] S·745B[745B] Sc·[0.25]
+21:58:39.359964 db@janitor F·3 G·0
+21:58:39.359991 db@open done T·10.894022ms
+=============== Dec 2, 2018 (UTC) ===============
+22:08:01.984607 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:08:01.984765 version@stat F·[1] S·745B[745B] Sc·[0.25]
+22:08:01.984775 db@open opening
+22:08:01.984812 journal@recovery F·1
+22:08:01.987148 journal@recovery recovering @3
+22:08:01.989409 memdb@flush created L0@5 N·2 S·238B "Dat..ion,v13":"Las..der,v14"
+22:08:01.991792 version@stat F·[2] S·983B[983B] Sc·[0.50]
+22:08:01.995691 db@janitor F·4 G·0
+22:08:01.995719 db@open done T·10.935466ms
+=============== Dec 2, 2018 (UTC) ===============
+22:10:07.131200 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:10:07.131340 version@stat F·[2] S·983B[983B] Sc·[0.50]
+22:10:07.131351 db@open opening
+22:10:07.131390 journal@recovery F·1
+22:10:07.133721 journal@recovery recovering @6
+22:10:07.135819 memdb@flush created L0@8 N·2 S·238B "Dat..ion,v16":"Las..der,v17"
+22:10:07.138226 version@stat F·[3] S·1KiB[1KiB] Sc·[0.75]
+22:10:07.141848 db@janitor F·5 G·0
+22:10:07.141876 db@open done T·10.516047ms
