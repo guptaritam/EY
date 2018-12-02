@@ -7,7 +7,7 @@ In case parties are end users we can allot them unique assymetric encryption key
 
 THE DIRECTORY STRUCTURE IS AS FOLLOWS :
 
-
+![screenshot from my aws server](https://github.com/guptaritam/btc-qt/blob/master/ss.png)
 
 1. there are 3 main binaries : constellation-node , geth, bootnode
 2. the node encryption keys : node1.pub, node1.key, node2.pub , etc
